@@ -198,8 +198,33 @@ If you like this project, don't forget to
 
 ---
 
+
 ## 📜 License
 
 This project is developed for educational and learning purposes.
+
+## 📸 Project Screenshots
+
+### 🏠 Dashboard
+![Dashboard](Dashboard.png)
+
+### 📂 Dataset
+![Dataset](Dataset.png)
+
+### 📊 Statistics
+![Statistics](Statistics.png)
+
+### 📈 Visualization - 1
+![Visualization-1](Visualization-1.png)
+
+### 📈 Visualization - 2
+![Visualization-2](Visualization-2.png)
+
+### 🎯 Prediction - 1
+![Prediction-1](Prediction-1.png)
+
+### 🎯 Prediction - 2
+![Prediction-2](Prediction-2.png)
+
 
 © 2026 Suhani Gupta. All Rights Reserved.
