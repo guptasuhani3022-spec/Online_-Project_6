@@ -176,15 +176,6 @@ Future AI Engineer 🚀
 
 ---
 
-# 🙏 Acknowledgement
-
-Special Thanks to
-
-**Chandrama Sir**
-
-for guidance and support throughout this project.
-
----
 
 # ⭐ Support
 
