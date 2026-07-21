@@ -172,8 +172,6 @@ These features are used for user segmentation using K-Means Clustering.
 
 Python Developer | AI & ML Enthusiast
 
-Future AI Engineer 🚀
-
 ---
 
 
